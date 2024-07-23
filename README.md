@@ -1,7 +1,7 @@
 # Tip Calculator | React + TS + Tailwind
-* Live project: (Click-here!)[https://tip-calculator-one-tan.vercel.app/]
+* Live project: [Click-here!](https://tip-calculator-one-tan.vercel.app/)
 
-This project was a challenge from (The Ultimate React Course)[https://www.udemy.com/course/the-ultimate-react-course/].
+This project was a challenge from [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/).
 
 ### How the project works
 It basically gets the value from a number input and calculates the tip based on the percentage picked in the select input. After that, it calculates the tip and adds it to the final bill value.
@@ -29,9 +29,9 @@ and it also has 2 child-components which are NumberInput and SelectInput, so the
 * * ResetButton - A component that simply receives a function to reset the whole App when clicked
 
 # Calculadora de Gorjeta | React + TS + Tailwind
-* Projeto ao vivo: (Clique-aqui!)[https://tip-calculator-one-tan.vercel.app/]
+* Projeto ao vivo: (Clique-aqui!)(https://tip-calculator-one-tan.vercel.app/)
 
-Este projeto foi um desafio do (The Ultimate React Course)[https://www.udemy.com/course/the-ultimate-react-course/].
+Este projeto foi um desafio do [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/).
 
 ### Como o projeto funciona
 Basicamente, ele obtém o valor de um input de número e calcula a gorjeta com base na porcentagem escolhida no input de select. Em seguida, calcula a gorjeta e adiciona ao valor final da conta.

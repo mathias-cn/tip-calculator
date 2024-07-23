@@ -14,7 +14,7 @@ It basically gets the value from a number input and calculates the tip based on 
 
 * Divided the layout into 3 components:
 * * InputSection -  A component that receives as prop the following and returns the input based on the inputType prop:
-```
+```typescript
 interface InputSectionProps {
     labelText: string
     nameForLabel: string
@@ -44,7 +44,7 @@ Basicamente, ele obtém o valor de um input de número e calcula a gorjeta com b
 
 * Dividi o layout em 3 componentes:
 * * InputSection -  Um componente que recebe como prop o seguinte e retorna a entrada com base na prop inputType:
-```
+```typescript
 interface InputSectionProps {
     labelText: string
     nameForLabel: string
